@@ -1,4 +1,9 @@
 # Ex-5: Multiclass Classifier
+## Solution Submission screenshots
+1. Commit pass
+![Alt text](<commit_pass.png>)
+2. Remote test pass
+![Alt text](<remote_pass.png>)
 
 ## Overview
 In this exercise, you will implement a multiclass classifier using the concepts learned in previous exercises.
